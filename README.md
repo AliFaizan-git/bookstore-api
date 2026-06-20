@@ -23,5 +23,5 @@ A robust, enterprise-grade RESTful API built with Node.js, Express, and MongoDB 
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/AliFaizan-git/bookstore-api
 cd bookstore-api
